@@ -1,4 +1,4 @@
-# ARM7-Based Smart Room People Counter with EEPROM & Automatic Lighting Control
+# Smart Room Occupancy Counter with Automatic Lighting Control using ARM7 (LPC2129)
 
 This project implements an intelligent room monitoring system that automatically **counts people entering and exiting** a room and controls **lighting based on real-time occupancy**. It reduces manual monitoring and minimizes energy wastage by ensuring lights turn **ON only when the room is occupied**.
 
